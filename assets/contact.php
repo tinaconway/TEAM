@@ -7,7 +7,7 @@
 header('Cache-Control: no-cache, must-revalidate');
 header('Content-type: application/json');
 
-$admin_email = 'kc54861@gmail.com'; // Your Email
+$admin_email = 'kylestevenson88@gmail.com'; // Your Email
 $message_min_length = 5; // Min Message Length
 
 
