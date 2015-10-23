@@ -118,6 +118,7 @@ button.close{position: absolute;right: 0;background: #FFF;width: 25px;height: 25
 .animated{visibility: visible !important;}
 /*animation*/
 
+
 @media (max-width: 700px) {
 	.homeinfo{padding-top: 100px;}
 	.events ul li,.events ul li .date{background: none;}
@@ -204,4 +205,20 @@ a {
   -ms-transform: rotate(0deg);
   -o-transform: rotate(0deg);
   transform: rotate(0deg);
+}
+.city {
+  font-size: 1.2em;
+}
+
+.contact-email {
+  margin-bottom: 0;
+}
+.contact-name {
+  margin-bottom: 0;
+}
+.contact-message {
+  margin-bottom: 0;
+}
+.contact-submit {
+  margin-bottom: 0;
 }
